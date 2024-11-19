@@ -142,7 +142,7 @@ a:visited {
     text-decoration: none;
 }
 a.class1 {
-    color: rgb(66, 53, 53);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class1:visited {
@@ -152,7 +152,7 @@ a.class1:hover {
     text-decoration: none;
 }
 a.class2 {
-    color: rgb(66, 53, 53);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class2:visited {
@@ -162,7 +162,7 @@ a.class2:hover {
     text-decoration: none;
 }
 a.class3 {
-    color: rgb(66, 53, 53);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 a.class3:visited {
@@ -172,7 +172,7 @@ a.class3:hover {
     text-decoration: none;
 }
 a:hover {
-    color: rgb(0, 0, 0);
+    color: rgb(50, 50, 50);
     text-decoration: none;
 }
 .bumper {
