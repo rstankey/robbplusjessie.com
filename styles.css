@@ -8,14 +8,14 @@ body {
 .container {
   display: flex;
   flex-wrap: wrap;
-  max-width: 800px;
+  max-width: 600px;
   margin: 40px auto;
   padding: 20px;
   gap: 20px;
 }
 
 .column {
-  flex: 1 1 300px;
+  flex: 1 1 400px;
   background: white;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
